@@ -1,6 +1,6 @@
 # Avatoon Avatar Maker Appium BDD Test Automation
 
->**Requirenments**
+>[**Requirenments**](https://github.com/muhammetfurkandemiral/AppiumBDD/blob/master/pom.xml)
 >
 >![image](https://user-images.githubusercontent.com/37184598/147217918-eeca053c-b72f-4b16-8dd3-70fe56c43e27.png)
 #
